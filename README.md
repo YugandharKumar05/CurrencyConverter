@@ -20,6 +20,10 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
     <td align="center">Material 3</td>
     <td align="center">https://m3.material.io/develop/android/mdc-android</td>
   </tr>
+  <tr>
+    <td align="center">Opensource API(Generate your key)</td>
+    <td align="center"> https://currencyapi.com/</td>
+  </tr>
     <tr>
     <td align="center">Koin</td>
     <td align="center">https://github.com/ktorio/ktor-documentation</td>
