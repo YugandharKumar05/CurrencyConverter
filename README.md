@@ -87,8 +87,4 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 
 https://github.com/kaaneneskpc/CMPCurrencyApp/assets/32849662/4aabc9c9-475a-40db-9a5b-5536b05c3e54
 
-## Desktop
-
-https://github.com/kaaneneskpc/CMPCurrencyApp/assets/32849662/f49b3eae-101c-48c6-b734-b13a8d50f890
-
 
